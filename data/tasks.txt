@@ -1,0 +1,2 @@
+Estudar C
+Criar gerenciador de tarefas
